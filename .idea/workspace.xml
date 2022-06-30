@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="271b7dd2-1c4d-43bf-812a-e1ac573c2e7e" name="Changes" comment="Primeira versão do jogo Acerte o Numero Aleatorio">
+    <list default="true" id="271b7dd2-1c4d-43bf-812a-e1ac573c2e7e" name="Changes" comment="Segunda versão do jogo Acerte o Numero Aleatorio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AcerteONumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AcerteONumero.java" afterDir="false" />
     </list>
@@ -49,6 +49,20 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AcerteONumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AcerteONumero" />
+      <module name="desafiocatalisa1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AcerteONumero" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656611169290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Segunda versão do jogo Acerte o Numero Aleatorio">
+      <created>1656611825996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656611825996</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeira versão do jogo Acerte o Numero Aleatorio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira versão do jogo Acerte o Numero Aleatorio" />
+    <MESSAGE value="Segunda versão do jogo Acerte o Numero Aleatorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segunda versão do jogo Acerte o Numero Aleatorio" />
   </component>
 </project>
