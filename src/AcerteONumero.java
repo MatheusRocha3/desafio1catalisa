@@ -20,6 +20,15 @@ import java.util.Scanner;
                         int numeroAleatorio = random.nextInt(20);
                         int numeroMaximo = numeroAleatorio + 1;
                         int numeroMinimo = numeroAleatorio - 1;
+                        if (escolhaNumeroUsuario > numeroAleatorio); {
+                            System.out.println("O número digitado não pode ser maior que 20.");
+                            System.out.println("Tente novamente. Digite um número de 0 até 20");
+                            escolhaNumeroUsuario = input.nextInt();
+                        } if (escolhaNumeroUsuario < numeroAleatorio) {
+                            System.out.println("O número digitado não pode ser negativo.");
+                            System.out.println("Tente novamente. Digite um número de 0 até 20");
+                            escolhaNumeroUsuario = input.nextInt();
+                        }
                         if (escolhaNumeroUsuario == numeroAleatorio) {
                             pontos = pontos + 10;
                             System.out.println("Parabéns, você acertou!");
