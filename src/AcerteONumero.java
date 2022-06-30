@@ -18,7 +18,6 @@ import java.util.Scanner;
                         System.out.println("Escolha um número de 0 até 20");
                         int escolhaNumeroUsuario = (input.nextInt());
                         int numeroAleatorio = random.nextInt(20);
-                        System.out.println(numeroAleatorio);
                         int numeroMaximo = numeroAleatorio + 1;
                         int numeroMinimo = numeroAleatorio - 1;
                         if (escolhaNumeroUsuario == numeroAleatorio) {
